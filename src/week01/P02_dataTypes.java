@@ -32,7 +32,7 @@ public class P02_dataTypes {
         int a = (byte) 134;
         System.out.println("a = " + a);
 
-
+        //degisikik için
     }
 
 }
